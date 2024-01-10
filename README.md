@@ -1,7 +1,7 @@
 # Azure Credit Management PowerBI Report
 
 *You can find the link to the dashboard below.*
-![Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMTI2ZTJkODItYmQ2NC00ZjZlLWJkYzAtNTM4MTFmOThjYzY1IiwidCI6ImQ1ZTc2OWIwLWZkMTktNDVlNC1hNGE4LWI3MzU0NTQ1MDIzNCIsImMiOjEwfQ%3D%3D)
+!(https://app.powerbi.com/view?r=eyJrIjoiMTI2ZTJkODItYmQ2NC00ZjZlLWJkYzAtNTM4MTFmOThjYzY1IiwidCI6ImQ1ZTc2OWIwLWZkMTktNDVlNC1hNGE4LWI3MzU0NTQ1MDIzNCIsImMiOjEwfQ%3D%3D)
 
 
 This PowerBI report provides an overview and detailed insights into Azure credit management of Microsoft Azure Workxflow Sponsorship, allowing users to track and manage their Azure credits effectively.
