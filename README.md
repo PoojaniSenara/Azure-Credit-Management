@@ -33,8 +33,7 @@ This PowerBI report is designed to help Azure users monitor and manage their cre
 ![Overview Page](https://github.com/PoojaniSenara/Azure-Credit-Management/blob/main/Overview.png)
 
 
-![Forecasting](/screenshots/forecast.png)
-*Forecasting model predicting future credit consumption.*
+
 
 ## Usage
 
